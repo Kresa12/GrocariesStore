@@ -41,7 +41,7 @@ retrofitVersion = "2.11.0"
 roomVersion = "2.7.1"
 testRunnerVersion = "1.6.2"
 timberVersion = "5.0.1"
-uiToolingPreviewVersion = "1.8.2"
+uiToolingPreviewVersion = "1.9.1"
 uiToolingVersion = "1.8.2"
 workVersion = "2.10.1"
 
